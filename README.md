@@ -1,18 +1,18 @@
 # Play Store Docs
 
-Legal documents and policies for NerdHQ apps, hosted via GitHub Pages.
+Legal documents and policies for Investiture Labs apps, hosted via GitHub Pages.
 
 ## Live URLs
 
 Once GitHub Pages is enabled, documents will be available at:
 
-- **Index:** https://nerdhq.github.io/play-store-docs/
-- **Pockets Privacy Policy:** https://nerdhq.github.io/play-store-docs/pockets/privacy-policy.html
-- **Pockets Delete Account:** https://nerdhq.github.io/play-store-docs/pockets/delete-account.html
+- **Index:** https://investiturelabs.github.io/play-store-docs/
+- **Pockets Privacy Policy:** https://investiturelabs.github.io/play-store-docs/pockets/privacy-policy.html
+- **Pockets Delete Account:** https://investiturelabs.github.io/play-store-docs/pockets/delete-account.html
 
 ## Setup
 
-1. Push this repo to GitHub under the `nerdhq` organization
+1. Push this repo to GitHub under the `investiturelabs` organization
 2. Go to **Settings > Pages**
 3. Set Source to **Deploy from a branch**
 4. Select **main** branch and **/ (root)** folder
